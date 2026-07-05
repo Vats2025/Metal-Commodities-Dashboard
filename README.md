@@ -73,7 +73,7 @@ Built a full-stack data analytics pipeline collecting, storing, analysing, and v
 - Production vs consumption clustered bar chart (2018–2024)
 - Demand gap trend net importer vs exporter analysis
 - Trade balance: exports vs imports by year
-- Capacity utilisation trend (66.7% in 2020 → 79.9% in 2024)
+- Capacity utilisation trend (66.7% in 2020 to 79.9% in 2024)
 - KPI cards: peak production 143.6 MT, peak consumption 140.1 MT
 
 ---
